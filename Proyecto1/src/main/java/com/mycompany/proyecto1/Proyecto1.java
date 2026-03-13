@@ -11,6 +11,6 @@ package com.mycompany.proyecto1;
 public class Proyecto1 {
 
     public static void main(String[] args) {
-        System.out.println("funciona porfa que me va a dar depresion jajaja auxi si mira esto apiadese de mi que no lograba hacer que funcionara pero espero que ahora si ");
+        System.out.println("no funciono ayuda ");
     }
 }
