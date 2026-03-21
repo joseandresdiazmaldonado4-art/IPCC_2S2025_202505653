@@ -18,6 +18,15 @@ public class Prestamo {
         this.activo = true;
     }
 
+    public Prestamo(String idPrestamo, String idLibro, String idEstudiante, String fechaPrestamo, String fechaDevolucion, boolean activo) {
+        this.idPrestamo = idPrestamo;
+        this.idLibro = idLibro;
+        this.idEstudiante = idEstudiante;
+        this.fechaPrestamo = fechaPrestamo;
+        this.fechaDevolucion = fechaDevolucion;
+        this.activo = activo;
+    }
+
     public String obtenerIdPrestamo() {
         return idPrestamo;
     }

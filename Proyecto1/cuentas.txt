@@ -1,0 +1,5 @@
+U001,Administrador General,admin,admin123,ADMIN
+U002,Operador Uno,operador1,oper123,OPERADOR
+U003,Estudiante Uno,estudiante1,estu123,ESTUDIANTE
+U004,jose,cutio,cutio,OPERADOR
+U005,Andres,chimi,5523,ESTUDIANTE

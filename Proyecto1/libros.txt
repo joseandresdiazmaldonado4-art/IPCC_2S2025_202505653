@@ -1,0 +1,10 @@
+001,Harry Potter y la Piedra Filosofal,J.K. Rowling,8,8,0
+002,Don Quijote de la Mancha,Miguel de Cervantes,6,6,0
+003,Five Nights at Freddy's: Los ojos de plata,Scott Cawthon,7,7,0
+004,Introduccion al Calculo,James Stewart,10,10,0
+005,Fisica Universitaria,Sears y Zemansky,10,10,0
+006,El Principito,Antoine de Saint-Exupery,7,7,0
+007,La Biblia,Varios,9,9,0
+008,Diario de Greg: Un pringao total,Jeff Kinney,8,8,0
+009,La Odisea,Homero,6,6,0
+010,Death Note,Tsugumi Ohba,9,10,1

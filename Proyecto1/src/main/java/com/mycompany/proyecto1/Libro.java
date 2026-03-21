@@ -18,6 +18,15 @@ public class Libro {
         this.vecesPrestado = 0;
     }
 
+    public Libro(String id, String titulo, String autor, int cantidadDisponible, int cantidadTotal, int vecesPrestado) {
+        this.id = id;
+        this.titulo = titulo;
+        this.autor = autor;
+        this.cantidadDisponible = cantidadDisponible;
+        this.cantidadTotal = cantidadTotal;
+        this.vecesPrestado = vecesPrestado;
+    }
+
     public String obtenerId() {
         return id;
     }
